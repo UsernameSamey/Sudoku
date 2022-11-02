@@ -2,6 +2,7 @@ body {
     font-family: 'Creepster', cursive;
     text-align: center;
     background-image: url(https://www.kapwing.com/resources/content/images/2021/09/halloween-zoom-virtual-backgrounds.jpeg);
+    
 }
 
 #title {
@@ -11,6 +12,7 @@ body {
     position: relative ;
     font-size: 80px;
     left: 5mm;
+
 }
 
 #mText {
@@ -18,7 +20,6 @@ body {
     display: inline;
     position: relative;
     left: 15mm;
-
 
 }
 
@@ -69,6 +70,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+
 }
 
 #digits {
@@ -77,6 +79,7 @@ body {
     margin: 0 auto;
     display: flex;
     flex-wrap: wrap;
+
 }
 
 .number {
@@ -94,14 +97,17 @@ body {
     position: relative;
     top: 20mm;
     right: 2mm;
+
 }
 
 .number-selected {
     background-color: rgb(255,113,0);
+
 }
 
 .tile-start {
     background-color: rgb(255,113,0);
+
 }
 
 
@@ -133,6 +139,5 @@ body {
     margin: auto;
     right: 10mm;
     top: 10mm;
-
 
 }
