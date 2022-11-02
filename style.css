@@ -55,7 +55,7 @@ body {
     flex-wrap: wrap;
     position: relative;
     background-color: rgb(174,3,255);
-    left: 190mm;
+    left: 125mm;
     top: 10mm;
     
 }
@@ -131,7 +131,7 @@ body {
     float: right;
     color: white;
     margin: auto;
-    right: 90mm;
+    right: 10mm;
     top: 10mm;
 
 
